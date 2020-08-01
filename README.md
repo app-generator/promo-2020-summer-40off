@@ -21,9 +21,9 @@ This promotion was not possible without the support from our amazing partners: C
 - [Argon Dashboard PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro) - ONLY $69, discounted from $149
 - [Black Dashboard PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - ONLY $69, discounted from $149
 - [3*Flask SummerOff](https://appseed.us/bundles/flask-dashboards-mini-pro) - 24% Off, on top of discounted prices
-    - Product #1 - Flask Black PRO - LIVE demo
-    - Product #2 - Flask Material PRO - LIVE demo
-    - Product #3 - Flask Argon PRO - LIVE demo
+    - Product #1 - [Flask Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - LIVE demo
+    - Product #2 - [Flask Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) - LIVE demo
+    - Product #3 - [Flask Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) - LIVE demo
 
 <br />
 
