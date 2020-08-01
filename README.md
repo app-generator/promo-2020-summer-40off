@@ -1,0 +1,1 @@
+# promo-2020-summer-40off
